@@ -1,4 +1,4 @@
-# Zombie Walk
+# Il Problema della Passeggiata Zombi
 
 Progetto per il corso di Modelli Probabilistici, A.2024/2025, Università di Bologna.
 
